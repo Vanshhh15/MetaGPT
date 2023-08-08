@@ -9,7 +9,6 @@ from metagpt.schema import Message
 from metagpt.memory import Memory
 from metagpt.memory.memory_storage import MemoryStorage
 
-
 class LongTermMemory(Memory):
     """
     The Long-term memory for Roles
